@@ -21,10 +21,10 @@ Ziyaretçi kayıtlarını tutar, oda durumlarını gösterir, tarih aralığınd
 ## Ekran Görüntüleri
 
 ### Ziyaretçi Kayıt Ekranı
-![Ziyaretçi Kayıt](images/ziyaretci_kayit.png)
+![Ziyaretçi Kayıt](ziyaretci_kayit.png)
 
 ### Oda Durumları Ekranı
-![Oda Durumları](images/oda_durumlari.png)
+![Oda Durumları](odaDurumuEkranı.png)
 
 ---
 

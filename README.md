@@ -21,7 +21,7 @@ Ziyaretçi kayıtlarını tutar, oda durumlarını gösterir, tarih aralığınd
 ## Ekran Görüntüleri
 
 ### Ziyaretçi Kayıt Ekranı
-![Ziyaretçi Kayıt](ziyaretci_kayit.png)
+![Ziyaretçi Kayıt](ziyaretçiKayıtEkranı.png)
 
 ### Oda Durumları Ekranı
 ![Oda Durumları](odaDurumuEkranı.png)
